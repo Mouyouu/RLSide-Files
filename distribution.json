@@ -1,0 +1,1553 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "rlside",
+      "name": "RLSide Server",
+      "address": "TON_IP_MINESTRATOR",
+      "port": 25565,
+      "modules": [
+        {
+          "name": "!mixinbooter-10.7 (2).jar",
+          "path": "mods/!mixinbooter-10.7 (2).jar",
+          "size": 2383999,
+          "sha1": "3fdfffe4fd446461ea9c3cb044484588997b9dbc",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/!mixinbooter-10.7 (2).jar"
+        },
+        {
+          "name": "!mod-director-launchwrapper-1.9.1.jar",
+          "path": "mods/!mod-director-launchwrapper-1.9.1.jar",
+          "size": 2926946,
+          "sha1": "13d7c102ae616f8fa74b4ce5f2d8cc26fc397026",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/!mod-director-launchwrapper-1.9.1.jar"
+        },
+        {
+          "name": "AARCAddon-1.0.1.jar",
+          "path": "mods/AARCAddon-1.0.1.jar",
+          "size": 6776,
+          "sha1": "7506b4f8a16010b35682b92015ad1429fd8b7650",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/AARCAddon-1.0.1.jar"
+        },
+        {
+          "name": "AdHooks-1.12.2-3.3.1.0-build.0626.jar",
+          "path": "mods/AdHooks-1.12.2-3.3.1.0-build.0626.jar",
+          "size": 99441,
+          "sha1": "ffb66aaa3c08d718fad6250415cd94b8b9c74645",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/AdHooks-1.12.2-3.3.1.0-build.0626.jar"
+        },
+        {
+          "name": "Advanced-Fishing-1.12.2-1.3.3.jar",
+          "path": "mods/Advanced-Fishing-1.12.2-1.3.3.jar",
+          "size": 277112,
+          "sha1": "b5bf4b1c90c25ef8991abafc3f4df8a62d62a6d7",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Advanced-Fishing-1.12.2-1.3.3.jar"
+        },
+        {
+          "name": "AIReducer-1.12.2-0.3.0.jar",
+          "path": "mods/AIReducer-1.12.2-0.3.0.jar",
+          "size": 85307,
+          "sha1": "a68d2b0996e8146f4c4fa270d7100c496120bfd3",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/AIReducer-1.12.2-0.3.0.jar"
+        },
+        {
+          "name": "alcatrazcore-1.0.4.jar",
+          "path": "mods/alcatrazcore-1.0.4.jar",
+          "size": 109321,
+          "sha1": "81f53ff51c5559ef93e599d489aa736d714b1ff9",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/alcatrazcore-1.0.4.jar"
+        },
+        {
+          "name": "Amphithere Mod-1.0.2.jar",
+          "path": "mods/Amphithere Mod-1.0.2.jar",
+          "size": 1335515,
+          "sha1": "d93561ffb729bb35ab59cb5cee275201592f3a31",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Amphithere Mod-1.0.2.jar"
+        },
+        {
+          "name": "antiqueatlas-1.12.2-4.6.3.jar",
+          "path": "mods/antiqueatlas-1.12.2-4.6.3.jar",
+          "size": 1239580,
+          "sha1": "9531e665ad5d5aa7a84890147dddb6eaf86a5752",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/antiqueatlas-1.12.2-4.6.3.jar"
+        },
+        {
+          "name": "AntiqueAtlasAutoMarker-1.4.3.jar",
+          "path": "mods/AntiqueAtlasAutoMarker-1.4.3.jar",
+          "size": 2529148,
+          "sha1": "0bfe3e51b79fcdd575cd56a1b083ab30f575d3b6",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/AntiqueAtlasAutoMarker-1.4.3.jar"
+        },
+        {
+          "name": "antiquecities-1.2.1.jar",
+          "path": "mods/antiquecities-1.2.1.jar",
+          "size": 132195,
+          "sha1": "2fba174ae236032a4da5a51ddebd7bedba663659",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/antiquecities-1.2.1.jar"
+        },
+        {
+          "name": "anvilpatch-1.1.1.jar",
+          "path": "mods/anvilpatch-1.1.1.jar",
+          "size": 16936,
+          "sha1": "2557a1d6718e9e5290f373d7c19397e7c6e81e51",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/anvilpatch-1.1.1.jar"
+        },
+        {
+          "name": "Aquaculture-1.12.2-1.6.8.jar",
+          "path": "mods/Aquaculture-1.12.2-1.6.8.jar",
+          "size": 186686,
+          "sha1": "9db4558bc156fbcd201625c6ccb0df52fec52c0f",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Aquaculture-1.12.2-1.6.8.jar"
+        },
+        {
+          "name": "armorunder-mc1.12.2-1.0.0.jar",
+          "path": "mods/armorunder-mc1.12.2-1.0.0.jar",
+          "size": 163703,
+          "sha1": "e2d720daf5e0a261b32aac6f2809bde0d2b8eaab",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/armorunder-mc1.12.2-1.0.0.jar"
+        },
+        {
+          "name": "astikorcarts-1.12.2-0.1.2.8.jar",
+          "path": "mods/astikorcarts-1.12.2-0.1.2.8.jar",
+          "size": 102639,
+          "sha1": "2a671d26e3e75cd7bfc8d41bc272f39197dc5458",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/astikorcarts-1.12.2-0.1.2.8.jar"
+        },
+        {
+          "name": "AttributeFix-Forge-1.12.2-1.0.12.jar",
+          "path": "mods/AttributeFix-Forge-1.12.2-1.0.12.jar",
+          "size": 4525,
+          "sha1": "d293e08f5b11aa0afa1ad6be5864b85e4266dfde",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/AttributeFix-Forge-1.12.2-1.0.12.jar"
+        },
+        {
+          "name": "AutoRegLib-1.3-32.jar",
+          "path": "mods/AutoRegLib-1.3-32.jar",
+          "size": 108306,
+          "sha1": "267269ca7f1a71fb3bb35bdb8e61702a4da6263e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/AutoRegLib-1.3-32.jar"
+        },
+        {
+          "name": "base-1.12.2-3.14.0.jar",
+          "path": "mods/base-1.12.2-3.14.0.jar",
+          "size": 690000,
+          "sha1": "4fbf3bae670f626028e29b57622b0ee98a8ad4db",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/base-1.12.2-3.14.0.jar"
+        },
+        {
+          "name": "BattleTowers-1.12.2.jar",
+          "path": "mods/BattleTowers-1.12.2.jar",
+          "size": 886037,
+          "sha1": "a67d73e74c211f0e958cab6f0acdec73d7d6236e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BattleTowers-1.12.2.jar"
+        },
+        {
+          "name": "Baubles-1.12-1.5.2.jar",
+          "path": "mods/Baubles-1.12-1.5.2.jar",
+          "size": 108450,
+          "sha1": "cb13fcfb18a9cb0cbd825fd5fe8d813c77368549",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Baubles-1.12-1.5.2.jar"
+        },
+        {
+          "name": "Baubley-Elytra-v1.3.3-mc1.12.2.jar",
+          "path": "mods/Baubley-Elytra-v1.3.3-mc1.12.2.jar",
+          "size": 21814,
+          "sha1": "e604328e3ac289710971713be25825db1ecf8b63",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Baubley-Elytra-v1.3.3-mc1.12.2.jar"
+        },
+        {
+          "name": "BedBreakBegone-1.0.2.jar",
+          "path": "mods/BedBreakBegone-1.0.2.jar",
+          "size": 13139,
+          "sha1": "9cb9197e487e688711434a9d39638d1e9e4968d9",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BedBreakBegone-1.0.2.jar"
+        },
+        {
+          "name": "betterbiomeblend-1.12.2-1.1.7-forge.jar",
+          "path": "mods/betterbiomeblend-1.12.2-1.1.7-forge.jar",
+          "size": 37657,
+          "sha1": "a9463fed7357f39515707b5bbb4cac780916abf5",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/betterbiomeblend-1.12.2-1.1.7-forge.jar"
+        },
+        {
+          "name": "bettercaves-1.12.2-2.0.4.jar",
+          "path": "mods/bettercaves-1.12.2-2.0.4.jar",
+          "size": 193604,
+          "sha1": "1924c9881c84373c4f887ad87b1089466b291d3f",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/bettercaves-1.12.2-2.0.4.jar"
+        },
+        {
+          "name": "BetterMineshaftsForge-1.12.2-2.2.1.jar",
+          "path": "mods/BetterMineshaftsForge-1.12.2-2.2.1.jar",
+          "size": 305086,
+          "sha1": "590de926876fb792f48b120a3483970e8fff3aa3",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BetterMineshaftsForge-1.12.2-2.2.1.jar"
+        },
+        {
+          "name": "betternether-0.1.8.6.jar",
+          "path": "mods/betternether-0.1.8.6.jar",
+          "size": 1769238,
+          "sha1": "f82a17a9a32bd65579f5414a5162fb8fedf4b73d",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/betternether-0.1.8.6.jar"
+        },
+        {
+          "name": "BetterQuesting-3.5.329.jar",
+          "path": "mods/BetterQuesting-3.5.329.jar",
+          "size": 1425671,
+          "sha1": "45b1b20dfbd79c64f226625076f228e4efec4586",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BetterQuesting-3.5.329.jar"
+        },
+        {
+          "name": "BetterTabs-1.0.4.jar",
+          "path": "mods/BetterTabs-1.0.4.jar",
+          "size": 21728,
+          "sha1": "dcdbfc5546c876799f1fa7dfb2eb5eeebb0f3bf4",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BetterTabs-1.0.4.jar"
+        },
+        {
+          "name": "better_survival-1.5.4.jar",
+          "path": "mods/better_survival-1.5.4.jar",
+          "size": 540454,
+          "sha1": "90ab3ca8d37bb2cc98a784e9816054878b7cac5e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/better_survival-1.5.4.jar"
+        },
+        {
+          "name": "BHMenu-Forge-1.12.2-2.4.5.jar",
+          "path": "mods/BHMenu-Forge-1.12.2-2.4.5.jar",
+          "size": 1055336,
+          "sha1": "aa1f434100af4870a1f310ced3d7407946a0f66a",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BHMenu-Forge-1.12.2-2.4.5.jar"
+        },
+        {
+          "name": "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+          "path": "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+          "size": 4746208,
+          "sha1": "13c1e58ffec2a550b9698e25cda93b8d155007b0",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+        },
+        {
+          "name": "BlockOverlayFix-1.12.2-1.0.0.jar",
+          "path": "mods/BlockOverlayFix-1.12.2-1.0.0.jar",
+          "size": 7809,
+          "sha1": "e8cf85505a2439cbc3d2599ecafb5d12653b1453",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BlockOverlayFix-1.12.2-1.0.0.jar"
+        },
+        {
+          "name": "Bloodmoon-MC1.12.2-1.5.3.jar",
+          "path": "mods/Bloodmoon-MC1.12.2-1.5.3.jar",
+          "size": 47505,
+          "sha1": "181062c89f2016f06e73864eab7c2ff016ccc754",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Bloodmoon-MC1.12.2-1.5.3.jar"
+        },
+        {
+          "name": "BNBGamingLib-1.12.2-2.17.6.jar",
+          "path": "mods/BNBGamingLib-1.12.2-2.17.6.jar",
+          "size": 132644,
+          "sha1": "06f0da5cf79645437ee5e666be23176eea1dfb94",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BNBGamingLib-1.12.2-2.17.6.jar"
+        },
+        {
+          "name": "BoatDeleteBegone-1.1.2.jar",
+          "path": "mods/BoatDeleteBegone-1.1.2.jar",
+          "size": 32928,
+          "sha1": "c014a66ee222a15bdc68e786e70b6b7ced204016",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BoatDeleteBegone-1.1.2.jar"
+        },
+        {
+          "name": "Born In A Barn 1.8-1.12-1.2.jar",
+          "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
+          "size": 4847,
+          "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Born In A Barn 1.8-1.12-1.2.jar"
+        },
+        {
+          "name": "Bounceable-1.0.1.jar",
+          "path": "mods/Bounceable-1.0.1.jar",
+          "size": 14266,
+          "sha1": "953978600c3be4b3a8a53edfc6462f0c5ac57c99",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Bounceable-1.0.1.jar"
+        },
+        {
+          "name": "Bountiful Baubles-1.12.2-0.1.8.jar",
+          "path": "mods/Bountiful Baubles-1.12.2-0.1.8.jar",
+          "size": 447825,
+          "sha1": "9cddb1fab23e51119cefa379e1affb07ed0818d2",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Bountiful Baubles-1.12.2-0.1.8.jar"
+        },
+        {
+          "name": "Bountiful-1.12.2-2.2.3.jar",
+          "path": "mods/Bountiful-1.12.2-2.2.3.jar",
+          "size": 255987,
+          "sha1": "a009f763526247268e70a737a5a75f6cbbdfadd1",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Bountiful-1.12.2-2.2.3.jar"
+        },
+        {
+          "name": "BQTweaker-1.3.5.jar",
+          "path": "mods/BQTweaker-1.3.5.jar",
+          "size": 201577,
+          "sha1": "dbc3c497e3ad604c4f02f66b2e919cda632e72fd",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BQTweaker-1.3.5.jar"
+        },
+        {
+          "name": "BQ_Multiblock_Structure_Integration-1.0.9.jar",
+          "path": "mods/BQ_Multiblock_Structure_Integration-1.0.9.jar",
+          "size": 64896,
+          "sha1": "e6c40fbfa0020892e0ea4288e657f8910816ae85",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/BQ_Multiblock_Structure_Integration-1.0.9.jar"
+        },
+        {
+          "name": "callablehorses-1.12.2-1.1.1.jar",
+          "path": "mods/callablehorses-1.12.2-1.1.1.jar",
+          "size": 130065,
+          "sha1": "5be26cff21c91e280f9717202585d263483c45d4",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/callablehorses-1.12.2-1.1.1.jar"
+        },
+        {
+          "name": "carrotslib-mc1.12.2-1.0.0b1.jar",
+          "path": "mods/carrotslib-mc1.12.2-1.0.0b1.jar",
+          "size": 290843,
+          "sha1": "0fb74fdf5ea7f4830523255d6ce742e8007b0c12",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/carrotslib-mc1.12.2-1.0.0b1.jar"
+        },
+        {
+          "name": "carryon-1.12.2-1.12.7.23.jar",
+          "path": "mods/carryon-1.12.2-1.12.7.23.jar",
+          "size": 309188,
+          "sha1": "6b48020b113f227d92a2d5ea3d763c9bf6196554",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/carryon-1.12.2-1.12.7.23.jar"
+        },
+        {
+          "name": "CD4017BE_lib-1.12.2-6.5.1.jar",
+          "path": "mods/CD4017BE_lib-1.12.2-6.5.1.jar",
+          "size": 669428,
+          "sha1": "b5820b90f0dab4d30d58298d54fda04385b6f674",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/CD4017BE_lib-1.12.2-6.5.1.jar"
+        },
+        {
+          "name": "champions-1.12.2-1.0.11.10.jar",
+          "path": "mods/champions-1.12.2-1.0.11.10.jar",
+          "size": 230539,
+          "sha1": "9f7e8a83d41fa923634dff487bec545b99c8e7cc",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/champions-1.12.2-1.0.11.10.jar"
+        },
+        {
+          "name": "Charm-1.12.2-1.4.1.jar",
+          "path": "mods/Charm-1.12.2-1.4.1.jar",
+          "size": 2383353,
+          "sha1": "0afddc46fe43970d4586f99f3266279f262f6de5",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Charm-1.12.2-1.4.1.jar"
+        },
+        {
+          "name": "ChunkAnimator-1.12.2-1.2.1.jar",
+          "path": "mods/ChunkAnimator-1.12.2-1.2.1.jar",
+          "size": 24940,
+          "sha1": "c3906436c1f04aab656dd1627a9378b673e644fa",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ChunkAnimator-1.12.2-1.2.1.jar"
+        },
+        {
+          "name": "classyhats-1.6.0.jar",
+          "path": "mods/classyhats-1.6.0.jar",
+          "size": 325619,
+          "sha1": "8c7f05c8fbd2cc1dbbb591310cfde12d8b5fabbc",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/classyhats-1.6.0.jar"
+        },
+        {
+          "name": "CollisionDamage-1.2.2.jar",
+          "path": "mods/CollisionDamage-1.2.2.jar",
+          "size": 294329,
+          "sha1": "f1619bf823b8533039c78e6fddfb1a52641170b6",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/CollisionDamage-1.2.2.jar"
+        },
+        {
+          "name": "comforts-1.12.2-1.4.1.3.jar",
+          "path": "mods/comforts-1.12.2-1.4.1.3.jar",
+          "size": 167301,
+          "sha1": "30528a47630935ba8517dcd5a28263a8be117b5f",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/comforts-1.12.2-1.4.1.3.jar"
+        },
+        {
+          "name": "CompatSkills-1.12.2-1.17.0.jar",
+          "path": "mods/CompatSkills-1.12.2-1.17.0.jar",
+          "size": 378621,
+          "sha1": "d984e2e532c3fa6516f8c441bd3f727fe9fc891e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/CompatSkills-1.12.2-1.17.0.jar"
+        },
+        {
+          "name": "ContentCreator-1.3.7-fix2.jar",
+          "path": "mods/ContentCreator-1.3.7-fix2.jar",
+          "size": 289208,
+          "sha1": "1da585bb4d346a0b6228ec12f8c4e60a63d8da1c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ContentCreator-1.3.7-fix2.jar"
+        },
+        {
+          "name": "ContentTweaker-1.12.2-4.10.0.jar",
+          "path": "mods/ContentTweaker-1.12.2-4.10.0.jar",
+          "size": 278152,
+          "sha1": "0d8efbe8c66e50b2cd82f30fb67f5bc368625f26",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ContentTweaker-1.12.2-4.10.0.jar"
+        },
+        {
+          "name": "Controlling-3.0.12.4.jar",
+          "path": "mods/Controlling-3.0.12.4.jar",
+          "size": 34383,
+          "sha1": "d588b1fefb912c1080d397834b6300e59409183c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Controlling-3.0.12.4.jar"
+        },
+        {
+          "name": "CoralReef-2.5-1.12.2.jar",
+          "path": "mods/CoralReef-2.5-1.12.2.jar",
+          "size": 73465,
+          "sha1": "d3e1bf331eb3d875544062a48ed6ec39a701974a",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/CoralReef-2.5-1.12.2.jar"
+        },
+        {
+          "name": "corpsecomplex-1.12.2-1.0.12.0.jar",
+          "path": "mods/corpsecomplex-1.12.2-1.0.12.0.jar",
+          "size": 132594,
+          "sha1": "9eaf0f7e33646774068755fd387e2fcd05e2d08d",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/corpsecomplex-1.12.2-1.0.12.0.jar"
+        },
+        {
+          "name": "craftablechainmail-1.0.jar",
+          "path": "mods/craftablechainmail-1.0.jar",
+          "size": 12600,
+          "sha1": "e2602dccd3d6fc0edefa0b2f484a27597a06aae0",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/craftablechainmail-1.0.jar"
+        },
+        {
+          "name": "CraftTweaker2-1.12-4.1.20.704.jar",
+          "path": "mods/CraftTweaker2-1.12-4.1.20.704.jar",
+          "size": 1589533,
+          "sha1": "2a66648b934c05e30d8f1f3f1ca8bd674caef3fb",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/CraftTweaker2-1.12-4.1.20.704.jar"
+        },
+        {
+          "name": "crafttweakerutils-0.7.jar",
+          "path": "mods/crafttweakerutils-0.7.jar",
+          "size": 22039,
+          "sha1": "8e766e3ae36bf0d3f8d28d0b2309c9a46ddc9a69",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/crafttweakerutils-0.7.jar"
+        },
+        {
+          "name": "CreativeCore_v1.10.71_mc1.12.2.jar",
+          "path": "mods/CreativeCore_v1.10.71_mc1.12.2.jar",
+          "size": 1321137,
+          "sha1": "2c60a20ae9c9431a3b215a331c2b2af7fa3a060c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/CreativeCore_v1.10.71_mc1.12.2.jar"
+        },
+        {
+          "name": "ctintegration-1.8.0.jar",
+          "path": "mods/ctintegration-1.8.0.jar",
+          "size": 78433,
+          "sha1": "b833d3c1bcfe0936acad587b373846a451887c75",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ctintegration-1.8.0.jar"
+        },
+        {
+          "name": "defiledlands-1.12.2-1.4.3.jar",
+          "path": "mods/defiledlands-1.12.2-1.4.3.jar",
+          "size": 780421,
+          "sha1": "a5590fd607602a9f44b5d9c0511ee7756cd99591",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/defiledlands-1.12.2-1.4.3.jar"
+        },
+        {
+          "name": "DelightfulCuisineForWoodheads_1.12.2-1.1.0.jar",
+          "path": "mods/DelightfulCuisineForWoodheads_1.12.2-1.1.0.jar",
+          "size": 816215,
+          "sha1": "1a955add047dce66fab581565152ed46063034ed",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/DelightfulCuisineForWoodheads_1.12.2-1.1.0.jar"
+        },
+        {
+          "name": "disenchanter[1.12]1.8.jar",
+          "path": "mods/disenchanter[1.12]1.8.jar",
+          "size": 172724,
+          "sha1": "0d76f6f183e8098be5d073e8fdaa0751bd3d5552",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/disenchanter[1.12]1.8.jar"
+        },
+        {
+          "name": "DoomlikeDungeons-1.14.12-MC1.12.2.jar",
+          "path": "mods/DoomlikeDungeons-1.14.12-MC1.12.2.jar",
+          "size": 725244,
+          "sha1": "d5cb5e4c4f1670658221e4af91fa66ecf0da8f0f",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/DoomlikeDungeons-1.14.12-MC1.12.2.jar"
+        },
+        {
+          "name": "DynamicSurroundings-1.12.2-3.6.2.1.jar",
+          "path": "mods/DynamicSurroundings-1.12.2-3.6.2.1.jar",
+          "size": 15040104,
+          "sha1": "d264b6ac5970c72bc6d4bd00ba550dc076270b50",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/DynamicSurroundings-1.12.2-3.6.2.1.jar"
+        },
+        {
+          "name": "DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar",
+          "path": "mods/DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar",
+          "size": 96279,
+          "sha1": "017d7b1ded52ea61561457d29c337d065c2dd8ff",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar"
+        },
+        {
+          "name": "DynamicTrees-1.12.2-0.9.29.jar",
+          "path": "mods/DynamicTrees-1.12.2-0.9.29.jar",
+          "size": 909851,
+          "sha1": "37c383df58c0c269c285e99e5498047c794eb7a3",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/DynamicTrees-1.12.2-0.9.29.jar"
+        },
+        {
+          "name": "DynamicTreesBOP-1.12.2-1.5.2.jar",
+          "path": "mods/DynamicTreesBOP-1.12.2-1.5.2.jar",
+          "size": 455541,
+          "sha1": "145f3251a556dd9d5f2a75bcf9bfdd053a9f5b3e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/DynamicTreesBOP-1.12.2-1.5.2.jar"
+        },
+        {
+          "name": "dynamictreesdefiledlands-1.12.2-1.0.0.jar",
+          "path": "mods/dynamictreesdefiledlands-1.12.2-1.0.0.jar",
+          "size": 33264,
+          "sha1": "a8f7119e7e7be0261937fd2e86ebe81f864e52d1",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/dynamictreesdefiledlands-1.12.2-1.0.0.jar"
+        },
+        {
+          "name": "DynamicTreesQuark-1.12.2-1.0.6.jar",
+          "path": "mods/DynamicTreesQuark-1.12.2-1.0.6.jar",
+          "size": 231126,
+          "sha1": "6070f07e64e62c1fbd91ae391758c0d280062ac8",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/DynamicTreesQuark-1.12.2-1.0.6.jar"
+        },
+        {
+          "name": "DynamicTreesTraverse-1.12.2-2.1.jar",
+          "path": "mods/DynamicTreesTraverse-1.12.2-2.1.jar",
+          "size": 5414741,
+          "sha1": "6d0f2c009a8332c811e5654affca54114747d441",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/DynamicTreesTraverse-1.12.2-2.1.jar"
+        },
+        {
+          "name": "EagleMixins-1.2.4.jar",
+          "path": "mods/EagleMixins-1.2.4.jar",
+          "size": 3714470,
+          "sha1": "ad21a17aabdd1f92a8e8d9bc057738206c22c040",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/EagleMixins-1.2.4.jar"
+        },
+        {
+          "name": "EditableEdibles-1.3.3.jar",
+          "path": "mods/EditableEdibles-1.3.3.jar",
+          "size": 27559,
+          "sha1": "791695393d4ede8ec380b30bf76f39e23b68d4a6",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/EditableEdibles-1.3.3.jar"
+        },
+        {
+          "name": "ElenaiDodge-1.12.2-2.1.jar",
+          "path": "mods/ElenaiDodge-1.12.2-2.1.jar",
+          "size": 228075,
+          "sha1": "ccfb7ce085af3f88bc3046e8997c2164b940f6ce",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ElenaiDodge-1.12.2-2.1.jar"
+        },
+        {
+          "name": "EnchantmentDescriptions-1.12.2-1.1.20.jar",
+          "path": "mods/EnchantmentDescriptions-1.12.2-1.1.20.jar",
+          "size": 17072,
+          "sha1": "d82e9d326b9d40904edb189077fabe0f5f47557a",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/EnchantmentDescriptions-1.12.2-1.1.20.jar"
+        },
+        {
+          "name": "EnhancedVisuals_v1.4.4_mc1.12.2.jar",
+          "path": "mods/EnhancedVisuals_v1.4.4_mc1.12.2.jar",
+          "size": 4725314,
+          "sha1": "2028fa47c9b0cf2904d3179d86ce9054009af6a0",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/EnhancedVisuals_v1.4.4_mc1.12.2.jar"
+        },
+        {
+          "name": "EntityCulling-1.12.2-6.5.0.jar",
+          "path": "mods/EntityCulling-1.12.2-6.5.0.jar",
+          "size": 63926,
+          "sha1": "cf4a4a6b11b1721fbda1edeb32bdc3b1ac3a8560",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/EntityCulling-1.12.2-6.5.0.jar"
+        },
+        {
+          "name": "EpicSiegeMod-13.167.jar",
+          "path": "mods/EpicSiegeMod-13.167.jar",
+          "size": 296070,
+          "sha1": "ac2ecd3437610954204f32c57fbff2424d58f625",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/EpicSiegeMod-13.167.jar"
+        },
+        {
+          "name": "FamiliarFauna-1.12.2-1.0.11.jar",
+          "path": "mods/FamiliarFauna-1.12.2-1.0.11.jar",
+          "size": 381455,
+          "sha1": "e38af1ced9f5ce3f39e87b8cf79241849b52945d",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FamiliarFauna-1.12.2-1.0.11.jar"
+        },
+        {
+          "name": "FancyBlockParticles-1.12.x-2.4.1.jar",
+          "path": "mods/FancyBlockParticles-1.12.x-2.4.1.jar",
+          "size": 177413,
+          "sha1": "256b53b26298c2f59590f02ba67889821afd79b1",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FancyBlockParticles-1.12.x-2.4.1.jar"
+        },
+        {
+          "name": "fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+          "path": "mods/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+          "size": 1260832,
+          "sha1": "b85302e855530f799697b2850e70293111f0cdbe",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar"
+        },
+        {
+          "name": "FantasticLib-1.12.2.070.jar",
+          "path": "mods/FantasticLib-1.12.2.070.jar",
+          "size": 713629,
+          "sha1": "102d4d35c6b96fcbbb9a164f1a94f2e9aa76b41e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FantasticLib-1.12.2.070.jar"
+        },
+        {
+          "name": "fermiumasm-5.28.jar",
+          "path": "mods/fermiumasm-5.28.jar",
+          "size": 526996,
+          "sha1": "d3b4d15cebe24c822556de2c77e348f20afeb064",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/fermiumasm-5.28.jar"
+        },
+        {
+          "name": "FermiumMixins-1.0.10.jar",
+          "path": "mods/FermiumMixins-1.0.10.jar",
+          "size": 814421,
+          "sha1": "0c3801227fc6d36962e62c9657d90908b99f59d6",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FermiumMixins-1.0.10.jar"
+        },
+        {
+          "name": "firstaid-1.6.22.jar",
+          "path": "mods/firstaid-1.6.22.jar",
+          "size": 493904,
+          "sha1": "d9927b8c24def4b32e1ca81f3b8caf379391e34e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/firstaid-1.6.22.jar"
+        },
+        {
+          "name": "Fish's Undead Rising-1.4.2.jar",
+          "path": "mods/Fish's Undead Rising-1.4.2.jar",
+          "size": 6453385,
+          "sha1": "bdc043d0abd318233e9272e7fc8bdeeea4afc6ba",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Fish's Undead Rising-1.4.2.jar"
+        },
+        {
+          "name": "FishingMadeBetter-1.12.2-2.2.7.jar",
+          "path": "mods/FishingMadeBetter-1.12.2-2.2.7.jar",
+          "size": 650817,
+          "sha1": "47e808bf66e447474bf51cb4a842c8e7f5d37a60",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FishingMadeBetter-1.12.2-2.2.7.jar"
+        },
+        {
+          "name": "foamfix-0.10.15-1.12.2.jar",
+          "path": "mods/foamfix-0.10.15-1.12.2.jar",
+          "size": 229335,
+          "sha1": "b179ee981e06e396cb060045cb076c857985494a",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/foamfix-0.10.15-1.12.2.jar"
+        },
+        {
+          "name": "FoodExpansion1.3.3-1.12.2.jar",
+          "path": "mods/FoodExpansion1.3.3-1.12.2.jar",
+          "size": 81460,
+          "sha1": "d2fe55e9c219c8c1b1f1918a90443faf05f4c1fe",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FoodExpansion1.3.3-1.12.2.jar"
+        },
+        {
+          "name": "FoodFix-1.12.2.001.jar",
+          "path": "mods/FoodFix-1.12.2.001.jar",
+          "size": 3776,
+          "sha1": "8f5ebc89b7c1d20c83ce00d3f74338a2e62fea15",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FoodFix-1.12.2.001.jar"
+        },
+        {
+          "name": "ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar",
+          "path": "mods/ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar",
+          "size": 950755,
+          "sha1": "747928e38d394c03bd7996568ae3baea4dd566cf",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar"
+        },
+        {
+          "name": "Forgelin-1.8.4.jar",
+          "path": "mods/Forgelin-1.8.4.jar",
+          "size": 6278399,
+          "sha1": "7a87553fcb808a45d9c7e03f113b355ac7fd10d7",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Forgelin-1.8.4.jar"
+        },
+        {
+          "name": "forgottenitems-1.12.2-1.3.1.4.jar",
+          "path": "mods/forgottenitems-1.12.2-1.3.1.4.jar",
+          "size": 1106601,
+          "sha1": "dd6591445527edca398aa517d99e21e734bed674",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/forgottenitems-1.12.2-1.3.1.4.jar"
+        },
+        {
+          "name": "framevoidpatch-1.0.0.jar",
+          "path": "mods/framevoidpatch-1.0.0.jar",
+          "size": 958635,
+          "sha1": "0e9da52cb77ad1f15e5b1f264fa1377b2dca6d9e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/framevoidpatch-1.0.0.jar"
+        },
+        {
+          "name": "FriendlyEndermite_v1.0.1_mc1.12.2.jar",
+          "path": "mods/FriendlyEndermite_v1.0.1_mc1.12.2.jar",
+          "size": 2608,
+          "sha1": "b4965430799632c8f9f1231ee71e9740752e64e3",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FriendlyEndermite_v1.0.1_mc1.12.2.jar"
+        },
+        {
+          "name": "FurnaceXPStorage-1.1.4.jar",
+          "path": "mods/FurnaceXPStorage-1.1.4.jar",
+          "size": 87716,
+          "sha1": "99d19e8244d7a8308efa342f1d61e948691d4ab8",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/FurnaceXPStorage-1.1.4.jar"
+        },
+        {
+          "name": "fxcontrol-1.12-0.1.15.jar",
+          "path": "mods/fxcontrol-1.12-0.1.15.jar",
+          "size": 121908,
+          "sha1": "555437961a33e105a095ac1ad5c99f265803ce13",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/fxcontrol-1.12-0.1.15.jar"
+        },
+        {
+          "name": "GlobalGameRules-1.12.2-2.2.7.jar",
+          "path": "mods/GlobalGameRules-1.12.2-2.2.7.jar",
+          "size": 24050,
+          "sha1": "ca223e0b0f7978c4c62f975cac7fbef29d8d2ca5",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/GlobalGameRules-1.12.2-2.2.7.jar"
+        },
+        {
+          "name": "GooglyEyes-1.12.2-7.1.1.jar",
+          "path": "mods/GooglyEyes-1.12.2-7.1.1.jar",
+          "size": 24273,
+          "sha1": "5d6b6038acc27a289fc31dfc0efdcc7fe412f10c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/GooglyEyes-1.12.2-7.1.1.jar"
+        },
+        {
+          "name": "grapplemod-1.12.2-v12.3.jar",
+          "path": "mods/grapplemod-1.12.2-v12.3.jar",
+          "size": 431927,
+          "sha1": "ef23c9c3293c5897bc8c9f5a066324b54d67497d",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/grapplemod-1.12.2-v12.3.jar"
+        },
+        {
+          "name": "HelpFixer-1.12.1-1.5.18.jar",
+          "path": "mods/HelpFixer-1.12.1-1.5.18.jar",
+          "size": 6778,
+          "sha1": "db399136a8f16fc1b42f130d245e3f524835d5f0",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/HelpFixer-1.12.1-1.5.18.jar"
+        },
+        {
+          "name": "Ice and Fire-2.0.9.jar",
+          "path": "mods/Ice and Fire-2.0.9.jar",
+          "size": 22152876,
+          "sha1": "d5058591b395e74cdd8fbeaaa9fe3f0088d893d5",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Ice and Fire-2.0.9.jar"
+        },
+        {
+          "name": "iChunUtil-1.12.2-7.2.2.jar",
+          "path": "mods/iChunUtil-1.12.2-7.2.2.jar",
+          "size": 581963,
+          "sha1": "2b53b0f9543c98adb0b89caa4da954a477259367",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/iChunUtil-1.12.2-7.2.2.jar"
+        },
+        {
+          "name": "incontrol-1.12-3.9.18.jar",
+          "path": "mods/incontrol-1.12-3.9.18.jar",
+          "size": 152687,
+          "sha1": "a9a3b82dc6c8d9a9107f5e03eaa79b5854c2eed2",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/incontrol-1.12-3.9.18.jar"
+        },
+        {
+          "name": "InfernalMobs-1.12.2.jar",
+          "path": "mods/InfernalMobs-1.12.2.jar",
+          "size": 186600,
+          "sha1": "7488bdece40a58107bf540034e5f4696fa491756",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/InfernalMobs-1.12.2.jar"
+        },
+        {
+          "name": "Inspirations-1.12.2-0.2.9.jar",
+          "path": "mods/Inspirations-1.12.2-0.2.9.jar",
+          "size": 842254,
+          "sha1": "5bb254759f738570c53ef0bddb46220cf8659895",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Inspirations-1.12.2-0.2.9.jar"
+        },
+        {
+          "name": "InventoryTweaks-1.64+dev.151.jar",
+          "path": "mods/InventoryTweaks-1.64+dev.151.jar",
+          "size": 286144,
+          "sha1": "3ba1e59a5109f3e94a4a0170877006b72fa77b1e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/InventoryTweaks-1.64+dev.151.jar"
+        },
+        {
+          "name": "ItemPhysic_Full_1.4.37_mc1.12.2.jar",
+          "path": "mods/ItemPhysic_Full_1.4.37_mc1.12.2.jar",
+          "size": 52615,
+          "sha1": "b8ceb668c021e137d8354e75df864127ba5756e7",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ItemPhysic_Full_1.4.37_mc1.12.2.jar"
+        },
+        {
+          "name": "itlt-1.12.x-1.0.4.jar",
+          "path": "mods/itlt-1.12.x-1.0.4.jar",
+          "size": 14649,
+          "sha1": "046b21212d93acb02adf7bc240be3ee990bce3db",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/itlt-1.12.x-1.0.4.jar"
+        },
+        {
+          "name": "IvToolkit-1.3.3-1.12.jar",
+          "path": "mods/IvToolkit-1.3.3-1.12.jar",
+          "size": 455763,
+          "sha1": "522e60b48721b558f6dea1fdfa2b235162366649",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/IvToolkit-1.3.3-1.12.jar"
+        },
+        {
+          "name": "jarlist.txt",
+          "path": "mods/jarlist.txt",
+          "size": 5521,
+          "sha1": "ce75a904b1dcff50fb0b32245cb4fc767d8e9c15",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/jarlist.txt"
+        },
+        {
+          "name": "jei_1.12.2-4.16.1.1012.jar",
+          "path": "mods/jei_1.12.2-4.16.1.1012.jar",
+          "size": 649218,
+          "sha1": "a6d04d7e161d9af5c0e7077f649e30815927f14a",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/jei_1.12.2-4.16.1.1012.jar"
+        },
+        {
+          "name": "JSON-Paintings-v1.4.0-mc1.12.2.jar",
+          "path": "mods/JSON-Paintings-v1.4.0-mc1.12.2.jar",
+          "size": 87607,
+          "sha1": "e8e76fed0efce66de48a80168b2b3db10175bd73",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/JSON-Paintings-v1.4.0-mc1.12.2.jar"
+        },
+        {
+          "name": "Kiwi-1.12.2-0.5.3.32.jar",
+          "path": "mods/Kiwi-1.12.2-0.5.3.32.jar",
+          "size": 119062,
+          "sha1": "a7bf1a653653b7b6885af49be18348613874fb22",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Kiwi-1.12.2-0.5.3.32.jar"
+        },
+        {
+          "name": "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+          "path": "mods/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+          "size": 618150,
+          "sha1": "d8853dbd60fd050709d2d687d875cb0d93806e92",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar"
+        },
+        {
+          "name": "lagbgonrevived-1.1.0.jar",
+          "path": "mods/lagbgonrevived-1.1.0.jar",
+          "size": 15451,
+          "sha1": "2f37d7c3f84f87d6eaa36e35899372015b1ae23f",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/lagbgonrevived-1.1.0.jar"
+        },
+        {
+          "name": "LegendaryTooltips-1.12.2-1.1.11.jar",
+          "path": "mods/LegendaryTooltips-1.12.2-1.1.11.jar",
+          "size": 36553,
+          "sha1": "f174a9ccf33df0bc1594713ef40dc8c0fce32205",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/LegendaryTooltips-1.12.2-1.1.11.jar"
+        },
+        {
+          "name": "Level Up! 2-1.1.23-1.12.jar",
+          "path": "mods/Level Up! 2-1.1.23-1.12.jar",
+          "size": 187346,
+          "sha1": "e41da79233cb9e37824cb05e9a5db7588bec599d",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Level Up! 2-1.1.23-1.12.jar"
+        },
+        {
+          "name": "librarianlib-1.12.2-4.22.jar",
+          "path": "mods/librarianlib-1.12.2-4.22.jar",
+          "size": 40713059,
+          "sha1": "f2e75d6899a26fe32b0b0ee2ad33c68a70bd91e6",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/librarianlib-1.12.2-4.22.jar"
+        },
+        {
+          "name": "llibrary-1.7.20-1.12.2.jar",
+          "path": "mods/llibrary-1.7.20-1.12.2.jar",
+          "size": 884550,
+          "sha1": "fba97f9dbe750f17904c00db8ff58291595106b8",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/llibrary-1.7.20-1.12.2.jar"
+        },
+        {
+          "name": "LoadingScreens-1.12.2-0.3.1.jar",
+          "path": "mods/LoadingScreens-1.12.2-0.3.1.jar",
+          "size": 42647,
+          "sha1": "53129de47388d323b76f5d50e0ba01ade7e0e9b5",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/LoadingScreens-1.12.2-0.3.1.jar"
+        },
+        {
+          "name": "Localizator-1.12.2-1.0.14.jar",
+          "path": "mods/Localizator-1.12.2-1.0.14.jar",
+          "size": 2446754,
+          "sha1": "7a7db1847ed3d869a527a71bc1f4d35197583113",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Localizator-1.12.2-1.0.14.jar"
+        },
+        {
+          "name": "Locks-1.12.2-3.0.0.jar",
+          "path": "mods/Locks-1.12.2-3.0.0.jar",
+          "size": 1529957,
+          "sha1": "3ab3096add733c306bc9996b717f3c814e9f47d9",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Locks-1.12.2-3.0.0.jar"
+        },
+        {
+          "name": "lootr-1.12.2-0.6.2(1).jar",
+          "path": "mods/lootr-1.12.2-0.6.2(1).jar",
+          "size": 188928,
+          "sha1": "fd05a58874d8cb333204ac9b8902dcc8047edf4f",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/lootr-1.12.2-0.6.2(1).jar"
+        },
+        {
+          "name": "LootTweaker-0.3.1+MC1.12.2.jar",
+          "path": "mods/LootTweaker-0.3.1+MC1.12.2.jar",
+          "size": 111302,
+          "sha1": "c8f19101b381333a549cc069a0e0814831bfedc9",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/LootTweaker-0.3.1+MC1.12.2.jar"
+        },
+        {
+          "name": "lostcities-1.12-2.0.22.jar",
+          "path": "mods/lostcities-1.12-2.0.22.jar",
+          "size": 789743,
+          "sha1": "dcea94d4a3d05f8282e014fcfe69048feafe4ce0",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/lostcities-1.12-2.0.22.jar"
+        },
+        {
+          "name": "lycanitesmobs-1.12.2-2.0.8.10.jar",
+          "path": "mods/lycanitesmobs-1.12.2-2.0.8.10.jar",
+          "size": 94188882,
+          "sha1": "56c49cf01d62ee0715cc38b7d784165bcc1339d0",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/lycanitesmobs-1.12.2-2.0.8.10.jar"
+        },
+        {
+          "name": "Mantle-1.12-1.3.3.55.jar",
+          "path": "mods/Mantle-1.12-1.3.3.55.jar",
+          "size": 843486,
+          "sha1": "a1e5d5c197dae3e92637cafb8cd996185191165b",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Mantle-1.12-1.3.3.55.jar"
+        },
+        {
+          "name": "MaterialTweaker-1.1.1.jar",
+          "path": "mods/MaterialTweaker-1.1.1.jar",
+          "size": 23286,
+          "sha1": "b49af2a881da71e80dbd157b59e1a1b40c9c77dc",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/MaterialTweaker-1.1.1.jar"
+        },
+        {
+          "name": "mcw-bridges-1.0.6b-mc1.12.2.jar",
+          "path": "mods/mcw-bridges-1.0.6b-mc1.12.2.jar",
+          "size": 373298,
+          "sha1": "ecb9565db419ff5bf1c1bfbe1ea2b9b3d9507f96",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/mcw-bridges-1.0.6b-mc1.12.2.jar"
+        },
+        {
+          "name": "MmmMmmMmmMmm-1.12-2.0.5.jar",
+          "path": "mods/MmmMmmMmmMmm-1.12-2.0.5.jar",
+          "size": 47763,
+          "sha1": "458840e397180dca219b8f89066338afdcb5ee9f",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/MmmMmmMmmMmm-1.12-2.0.5.jar"
+        },
+        {
+          "name": "MoBends_1.12.2-1.2.1-19.12.21.jar",
+          "path": "mods/MoBends_1.12.2-1.2.1-19.12.21.jar",
+          "size": 770595,
+          "sha1": "79b40921c29312c4acec13db282c2abe3274af3b",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/MoBends_1.12.2-1.2.1-19.12.21.jar"
+        },
+        {
+          "name": "modtweaker-4.0.20.11.jar",
+          "path": "mods/modtweaker-4.0.20.11.jar",
+          "size": 493285,
+          "sha1": "f0bdbf6f4257e392e59023289998aaa8c295df47",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/modtweaker-4.0.20.11.jar"
+        },
+        {
+          "name": "MouseTweaks-2.10.1-mc1.12.2.jar",
+          "path": "mods/MouseTweaks-2.10.1-mc1.12.2.jar",
+          "size": 80528,
+          "sha1": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/MouseTweaks-2.10.1-mc1.12.2.jar"
+        },
+        {
+          "name": "MTLib-3.0.7.jar",
+          "path": "mods/MTLib-3.0.7.jar",
+          "size": 30009,
+          "sha1": "7d2b9e97518dca1e9326fd347ba1eb93dec35999",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/MTLib-3.0.7.jar"
+        },
+        {
+          "name": "MultiMine-1.12.2.jar",
+          "path": "mods/MultiMine-1.12.2.jar",
+          "size": 64791,
+          "sha1": "d817a648e3d4f26d2b281824a5a9a243da68c0e4",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/MultiMine-1.12.2.jar"
+        },
+        {
+          "name": "Neat 1.4-17.jar",
+          "path": "mods/Neat 1.4-17.jar",
+          "size": 18527,
+          "sha1": "831c286d99fe78503e966ef80ad27f54ae6a81cb",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Neat 1.4-17.jar"
+        },
+        {
+          "name": "NoiseThreader-1.1.1.jar",
+          "path": "mods/NoiseThreader-1.1.1.jar",
+          "size": 39311,
+          "sha1": "abbb515818e51b422616e8e57c59d23eb6596c0a",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/NoiseThreader-1.1.1.jar"
+        },
+        {
+          "name": "notreepunching-2.0.21.jar",
+          "path": "mods/notreepunching-2.0.21.jar",
+          "size": 2096298,
+          "sha1": "4e3d074bb19ba82ac9135c929841e7381d3af25c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/notreepunching-2.0.21.jar"
+        },
+        {
+          "name": "nuclearcraft-1.12.2-2.19a.jar",
+          "path": "mods/nuclearcraft-1.12.2-2.19a.jar",
+          "size": 6903578,
+          "sha1": "05db28e36a141316f8fa511f226c794110e58d12",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/nuclearcraft-1.12.2-2.19a.jar"
+        },
+        {
+          "name": "OpenTerrainGenerator-1.12.2-v9.7.jar",
+          "path": "mods/OpenTerrainGenerator-1.12.2-v9.7.jar",
+          "size": 4566153,
+          "sha1": "b39468ad2feb37a4516be13654bb3322ea00a23e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/OpenTerrainGenerator-1.12.2-v9.7.jar"
+        },
+        {
+          "name": "OptifineCITPatch-1.0.5.jar",
+          "path": "mods/OptifineCITPatch-1.0.5.jar",
+          "size": 14598,
+          "sha1": "91314c37ce7182f9bc0a9ac90d16dfaf87f4dc38",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/OptifineCITPatch-1.0.5.jar"
+        },
+        {
+          "name": "OptiFine_1.12.2_HD_U_G5.jar",
+          "path": "mods/OptiFine_1.12.2_HD_U_G5.jar",
+          "size": 2669107,
+          "sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/OptiFine_1.12.2_HD_U_G5.jar"
+        },
+        {
+          "name": "OreLib-1.12.2-3.6.0.1.jar",
+          "path": "mods/OreLib-1.12.2-3.6.0.1.jar",
+          "size": 341728,
+          "sha1": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/OreLib-1.12.2-3.6.0.1.jar"
+        },
+        {
+          "name": "paintingselgui-PSG+Revamed-1.12.2-1.1.0.1.jar",
+          "path": "mods/paintingselgui-PSG+Revamed-1.12.2-1.1.0.1.jar",
+          "size": 71469,
+          "sha1": "5ec8b14bdbde496c3a64884d64f71262a073ddb9",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/paintingselgui-PSG+Revamed-1.12.2-1.1.0.1.jar"
+        },
+        {
+          "name": "particleculling-1.12.2-v1.4.3.jar",
+          "path": "mods/particleculling-1.12.2-v1.4.3.jar",
+          "size": 17450,
+          "sha1": "2c4847ca6c7cf1d41ff320943394ff61028c7e72",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/particleculling-1.12.2-v1.4.3.jar"
+        },
+        {
+          "name": "phosphor-1.12.2-0.2.6+build50-universal.jar",
+          "path": "mods/phosphor-1.12.2-0.2.6+build50-universal.jar",
+          "size": 1082311,
+          "sha1": "d4781f46fb18f0c6ed03893465244e7ec7dc8b8c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/phosphor-1.12.2-0.2.6+build50-universal.jar"
+        },
+        {
+          "name": "PhosphorCrashFix-1.12.2-1.0.0.jar",
+          "path": "mods/PhosphorCrashFix-1.12.2-1.0.0.jar",
+          "size": 81988,
+          "sha1": "b5b17501af82828e106617b6f1694088f426494b",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/PhosphorCrashFix-1.12.2-1.0.0.jar"
+        },
+        {
+          "name": "pigstep-1.12.jar",
+          "path": "mods/pigstep-1.12.jar",
+          "size": 4835065,
+          "sha1": "1eb2a9809d9d650264d547a50d15fb19052fce43",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/pigstep-1.12.jar"
+        },
+        {
+          "name": "Placebo-1.12.2-1.6.1.jar",
+          "path": "mods/Placebo-1.12.2-1.6.1.jar",
+          "size": 77207,
+          "sha1": "d2142220e0944a8ad9d76ad7f50a5aa8d4e5fd80",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Placebo-1.12.2-1.6.1.jar"
+        },
+        {
+          "name": "playerbosses-1.12.2-1.1.0.jar",
+          "path": "mods/playerbosses-1.12.2-1.1.0.jar",
+          "size": 109193,
+          "sha1": "f96f0a60e9d3e81fabca03da4f9f8607e24e57c5",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/playerbosses-1.12.2-1.1.0.jar"
+        },
+        {
+          "name": "PortalDupeBegone-1.0.0.jar",
+          "path": "mods/PortalDupeBegone-1.0.0.jar",
+          "size": 11472,
+          "sha1": "bda7454ad62b7b756a91572124413cfaa7aefb2d",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/PortalDupeBegone-1.0.0.jar"
+        },
+        {
+          "name": "PotionCore-1.9_for_1.12.2.jar",
+          "path": "mods/PotionCore-1.9_for_1.12.2.jar",
+          "size": 145329,
+          "sha1": "c22bce1ca24762712680b9e107b77df921847f14",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/PotionCore-1.9_for_1.12.2.jar"
+        },
+        {
+          "name": "potiondescriptions-1.12.2-1.2.4.jar",
+          "path": "mods/potiondescriptions-1.12.2-1.2.4.jar",
+          "size": 15640,
+          "sha1": "8fd141799a05622e7d8a19aa73b272ee5e16f240",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/potiondescriptions-1.12.2-1.2.4.jar"
+        },
+        {
+          "name": "PotionFingers-r1.0-8.jar",
+          "path": "mods/PotionFingers-r1.0-8.jar",
+          "size": 11319,
+          "sha1": "9c6383e4e6464f9c9fe8d2b49beeb56e7b4df326",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/PotionFingers-r1.0-8.jar"
+        },
+        {
+          "name": "QualityTools-1.0.7_for_1.12.2.jar",
+          "path": "mods/QualityTools-1.0.7_for_1.12.2.jar",
+          "size": 83553,
+          "sha1": "d48b86bfb5ca622a71332b7b3bffeff2b1729a04",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/QualityTools-1.0.7_for_1.12.2.jar"
+        },
+        {
+          "name": "Quark-r1.6-179.jar",
+          "path": "mods/Quark-r1.6-179.jar",
+          "size": 3877577,
+          "sha1": "35521fd8911b6ef893afbfe7d0d5d04962b3360d",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Quark-r1.6-179.jar"
+        },
+        {
+          "name": "ReachFix-1.12.2-1.1.3.jar",
+          "path": "mods/ReachFix-1.12.2-1.1.3.jar",
+          "size": 98093,
+          "sha1": "d9994c089b4f30de9f7be0690624a535716456d1",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ReachFix-1.12.2-1.1.3.jar"
+        },
+        {
+          "name": "RealBench-1.12.2-1.3.3.jar",
+          "path": "mods/RealBench-1.12.2-1.3.3.jar",
+          "size": 17104,
+          "sha1": "9a888f514200396fe83a93d8dc1ee2a8ed1f7ed6",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RealBench-1.12.2-1.3.3.jar"
+        },
+        {
+          "name": "RealisticTorches-1.12.2-2.1.2.jar",
+          "path": "mods/RealisticTorches-1.12.2-2.1.2.jar",
+          "size": 75064,
+          "sha1": "03100cc1b2a29013f815bce0fc5e7baa23fdbeff",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RealisticTorches-1.12.2-2.1.2.jar"
+        },
+        {
+          "name": "RebornCore-1.12.2-3.19.5-universal.jar",
+          "path": "mods/RebornCore-1.12.2-3.19.5-universal.jar",
+          "size": 2285146,
+          "sha1": "7a296b3ea8cbffce723b9949bf3726af3a4e8215",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RebornCore-1.12.2-3.19.5-universal.jar"
+        },
+        {
+          "name": "RecurrentComplex-1.4.8.6.jar",
+          "path": "mods/RecurrentComplex-1.4.8.6.jar",
+          "size": 5750120,
+          "sha1": "c110bc4bd1e0a34927858c60e7a89d9db8ffe040",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RecurrentComplex-1.4.8.6.jar"
+        },
+        {
+          "name": "RenderLib-1.12.2-1.4.5.jar",
+          "path": "mods/RenderLib-1.12.2-1.4.5.jar",
+          "size": 290334,
+          "sha1": "da121ecfd63ea615de9a26276614bb0ab9306d95",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RenderLib-1.12.2-1.4.5.jar"
+        },
+        {
+          "name": "Reskillable-1.12.2-1.13.0.jar",
+          "path": "mods/Reskillable-1.12.2-1.13.0.jar",
+          "size": 338650,
+          "sha1": "0050ad376cea7c372db1c6711a21f6e631db3410",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Reskillable-1.12.2-1.13.0.jar"
+        },
+        {
+          "name": "ResourceLoader-MC1.12.1-1.5.3.jar",
+          "path": "mods/ResourceLoader-MC1.12.1-1.5.3.jar",
+          "size": 16612,
+          "sha1": "d8c10e6e29df5f9bc51e468642d9b3cae5f2f8e4",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ResourceLoader-MC1.12.1-1.5.3.jar"
+        },
+        {
+          "name": "RLArtifacts-1.1.2.jar",
+          "path": "mods/RLArtifacts-1.1.2.jar",
+          "size": 687259,
+          "sha1": "f6b09ccfe0f3bbf59a3e4a693a396cc050faec95",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RLArtifacts-1.1.2.jar"
+        },
+        {
+          "name": "RLCombat-1.12.2-2.2.4.jar",
+          "path": "mods/RLCombat-1.12.2-2.2.4.jar",
+          "size": 5043807,
+          "sha1": "2fb81ed0440f83e33fab88754ec73f2c71bdca69",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RLCombat-1.12.2-2.2.4.jar"
+        },
+        {
+          "name": "RLCraftLuckified-1.1.2.jar",
+          "path": "mods/RLCraftLuckified-1.1.2.jar",
+          "size": 203445,
+          "sha1": "fd067fca0c66b06f904a61e245fd225276f2c49c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RLCraftLuckified-1.1.2.jar"
+        },
+        {
+          "name": "RLFoliage-MC1.12-2.4.2.jar",
+          "path": "mods/RLFoliage-MC1.12-2.4.2.jar",
+          "size": 743157,
+          "sha1": "d5e830177845e39d8f81aea1c41bdfcf1397e31b",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RLFoliage-MC1.12-2.4.2.jar"
+        },
+        {
+          "name": "RLMixins-1.4.6.jar",
+          "path": "mods/RLMixins-1.4.6.jar",
+          "size": 1267503,
+          "sha1": "f0d11efa9e5fafa163060e42337bbf7fceae045e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RLMixins-1.4.6.jar"
+        },
+        {
+          "name": "RLTweaker-1.12.2-0.7.5.jar",
+          "path": "mods/RLTweaker-1.12.2-0.7.5.jar",
+          "size": 656223,
+          "sha1": "152a6884e6f1807be38e32030bede5d626fea854",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RLTweaker-1.12.2-0.7.5.jar"
+        },
+        {
+          "name": "RoguelikeDungeonsFnarEdition-1.12.2-2.4.6.jar",
+          "path": "mods/RoguelikeDungeonsFnarEdition-1.12.2-2.4.6.jar",
+          "size": 1310189,
+          "sha1": "896b40debeebdba755dccb84d88b4cf1ac44cb1b",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/RoguelikeDungeonsFnarEdition-1.12.2-2.4.6.jar"
+        },
+        {
+          "name": "roughTweaks0.2.4-1.12.2.jar",
+          "path": "mods/roughTweaks0.2.4-1.12.2.jar",
+          "size": 25875,
+          "sha1": "15762393103157a5aac6c8ea8d69c8c4bc42ee77",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/roughTweaks0.2.4-1.12.2.jar"
+        },
+        {
+          "name": "rustic-1.1.7.jar",
+          "path": "mods/rustic-1.1.7.jar",
+          "size": 1400465,
+          "sha1": "567832a6b073e59fa29f2f694e224008707db2f8",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/rustic-1.1.7.jar"
+        },
+        {
+          "name": "savemystronghold-1.12.2-1.0.0.jar",
+          "path": "mods/savemystronghold-1.12.2-1.0.0.jar",
+          "size": 53797,
+          "sha1": "22fe11452d8b4e2dfebb2a2d438b8b34e8609857",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/savemystronghold-1.12.2-1.0.0.jar"
+        },
+        {
+          "name": "ScalingHealth-1.12.2-1.3.42+147.jar",
+          "path": "mods/ScalingHealth-1.12.2-1.3.42+147.jar",
+          "size": 369985,
+          "sha1": "e621a6b6319bd3a854055af2b21826068852f0ea",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ScalingHealth-1.12.2-1.3.42+147.jar"
+        },
+        {
+          "name": "SereneSeasons-1.12.2-1.2.18-universal.jar",
+          "path": "mods/SereneSeasons-1.12.2-1.2.18-universal.jar",
+          "size": 185187,
+          "sha1": "05acc4faf6f5ca31215599c0ebf778ba18a9121b",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SereneSeasons-1.12.2-1.2.18-universal.jar"
+        },
+        {
+          "name": "SetBonus-1.12.2.040.jar",
+          "path": "mods/SetBonus-1.12.2.040.jar",
+          "size": 235466,
+          "sha1": "0f49c69b6c116c7a1668b4a646664785bb7e5fc5",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SetBonus-1.12.2.040.jar"
+        },
+        {
+          "name": "ShieldBreak-1.1.3.jar",
+          "path": "mods/ShieldBreak-1.1.3.jar",
+          "size": 58071,
+          "sha1": "6a0094c5aa334e737be55aecfcda62928c6564f6",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ShieldBreak-1.1.3.jar"
+        },
+        {
+          "name": "SilentLib-1.12.2-3.0.14+168.jar",
+          "path": "mods/SilentLib-1.12.2-3.0.14+168.jar",
+          "size": 369314,
+          "sha1": "5fca3fcef48502fdb26d020eb1d8427516724cb9",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SilentLib-1.12.2-3.0.14+168.jar"
+        },
+        {
+          "name": "SimpleDifficulty-1.12.2-0.3.9.jar",
+          "path": "mods/SimpleDifficulty-1.12.2-0.3.9.jar",
+          "size": 502574,
+          "sha1": "b312dfad60f0619badca1640090f99aa755104d4",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SimpleDifficulty-1.12.2-0.3.9.jar"
+        },
+        {
+          "name": "sit-1.12.2-v1.3.jar",
+          "path": "mods/sit-1.12.2-v1.3.jar",
+          "size": 10110,
+          "sha1": "1a19c5aa9373e5e9b666cd1e8a2b3632c5983d72",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/sit-1.12.2-v1.3.jar"
+        },
+        {
+          "name": "SnowRealMagic-1.12.2-0.7.4.jar",
+          "path": "mods/SnowRealMagic-1.12.2-0.7.4.jar",
+          "size": 921015,
+          "sha1": "8f14407286f1ef53f8c032f7757cdb5d227bbc3c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SnowRealMagic-1.12.2-0.7.4.jar"
+        },
+        {
+          "name": "SoManyEnchantments-1.0.8-1.12.2.jar",
+          "path": "mods/SoManyEnchantments-1.0.8-1.12.2.jar",
+          "size": 1963516,
+          "sha1": "89613555f03daf90b976fcd931e35a74100bab3a",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SoManyEnchantments-1.0.8-1.12.2.jar"
+        },
+        {
+          "name": "SoundFilters-0.12.1_for_1.12.jar",
+          "path": "mods/SoundFilters-0.12.1_for_1.12.jar",
+          "size": 43194,
+          "sha1": "3f86c275c0e6cb55ec901a76edf517ae1c478043",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SoundFilters-0.12.1_for_1.12.jar"
+        },
+        {
+          "name": "spark-unforged-1.11.140-forge.jar",
+          "path": "mods/spark-unforged-1.11.140-forge.jar",
+          "size": 3771370,
+          "sha1": "015557681e5f865c2aa42c8822600e4a064c0467",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/spark-unforged-1.11.140-forge.jar"
+        },
+        {
+          "name": "spartandefiled-1.12.2-1.2.jar",
+          "path": "mods/spartandefiled-1.12.2-1.2.jar",
+          "size": 206044,
+          "sha1": "66a86beabb6353deb1be94845617b5467eb9a142",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/spartandefiled-1.12.2-1.2.jar"
+        },
+        {
+          "name": "spartanfire_rlcraft-1.3.3.jar",
+          "path": "mods/spartanfire_rlcraft-1.3.3.jar",
+          "size": 842851,
+          "sha1": "26bc7ca12e0d38880dd9c88de39359cfa56a7e3f",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/spartanfire_rlcraft-1.3.3.jar"
+        },
+        {
+          "name": "SpartanHUDBaubles-1.12.2-1.0.0.jar",
+          "path": "mods/SpartanHUDBaubles-1.12.2-1.0.0.jar",
+          "size": 78418,
+          "sha1": "f08db9ce1becd829aacc1e531caf4384c0e208f5",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SpartanHUDBaubles-1.12.2-1.0.0.jar"
+        },
+        {
+          "name": "SpartanShields-1.12.2-1.5.5.jar",
+          "path": "mods/SpartanShields-1.12.2-1.5.5.jar",
+          "size": 430876,
+          "sha1": "89faa64364dfaa6799392e8f71da95e7b5af1144",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SpartanShields-1.12.2-1.5.5.jar"
+        },
+        {
+          "name": "SpartanWeaponry-1.12.2-1.6.1.jar",
+          "path": "mods/SpartanWeaponry-1.12.2-1.6.1.jar",
+          "size": 2371089,
+          "sha1": "0f4c533dbd1a9f6e9383bac0f6fef4cb80354fc3",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SpartanWeaponry-1.12.2-1.6.1.jar"
+        },
+        {
+          "name": "SpawnerControl-1.6.3b.jar",
+          "path": "mods/SpawnerControl-1.6.3b.jar",
+          "size": 49537,
+          "sha1": "2b6a39a30e5716306d3cfe38682a56805d619cf7",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SpawnerControl-1.6.3b.jar"
+        },
+        {
+          "name": "SRParasites-1.12.2v1.9.21.jar",
+          "path": "mods/SRParasites-1.12.2v1.9.21.jar",
+          "size": 27022807,
+          "sha1": "17225b532334c4652a698be3d41d819af2b0f051",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SRParasites-1.12.2v1.9.21.jar"
+        },
+        {
+          "name": "SRPMixins-2.9.2.2.jar",
+          "path": "mods/SRPMixins-2.9.2.2.jar",
+          "size": 790334,
+          "sha1": "77fd45283dcb04990ee32cd50057eed89da31461",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/SRPMixins-2.9.2.2.jar"
+        },
+        {
+          "name": "StandardExpansion-3.4.173.jar",
+          "path": "mods/StandardExpansion-3.4.173.jar",
+          "size": 460454,
+          "sha1": "aeea1502862382cf9859c495f1494e2bc7cc1d33",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/StandardExpansion-3.4.173.jar"
+        },
+        {
+          "name": "Surge-1.12.2-2.0.79.jar",
+          "path": "mods/Surge-1.12.2-2.0.79.jar",
+          "size": 957330,
+          "sha1": "f7197d44a0f1fb1af216d3ba6b7e3c1ed06a36e9",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Surge-1.12.2-2.0.79.jar"
+        },
+        {
+          "name": "switchbow-1.6.8.jar",
+          "path": "mods/switchbow-1.6.8.jar",
+          "size": 496455,
+          "sha1": "d115c9d86fc9a47c685e19c4ecf04d9cfa4fc88c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/switchbow-1.6.8.jar"
+        },
+        {
+          "name": "tnt_utilities-mc1.12-1.2.3.jar",
+          "path": "mods/tnt_utilities-mc1.12-1.2.3.jar",
+          "size": 31034,
+          "sha1": "4ec5d83ae703b63237675499b6445ecd63346c7e",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/tnt_utilities-mc1.12-1.2.3.jar"
+        },
+        {
+          "name": "Toast Control-1.12.2-1.8.1.jar",
+          "path": "mods/Toast Control-1.12.2-1.8.1.jar",
+          "size": 21668,
+          "sha1": "7365b5415d5f1a39997fe142ccc42ae732e31c01",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Toast Control-1.12.2-1.8.1.jar"
+        },
+        {
+          "name": "ToolBelt-1.12.2-1.9.14.jar",
+          "path": "mods/ToolBelt-1.12.2-1.9.14.jar",
+          "size": 161592,
+          "sha1": "6a9078c5d0f9e92a9f66ded407cba4b48dadbdf8",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/ToolBelt-1.12.2-1.9.14.jar"
+        },
+        {
+          "name": "Traverse-1.12.2-1.6.0-69.jar",
+          "path": "mods/Traverse-1.12.2-1.6.0-69.jar",
+          "size": 270133,
+          "sha1": "b16aaff09a6e77ba193e42f88f5d5bb8a85e063a",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Traverse-1.12.2-1.6.0-69.jar"
+        },
+        {
+          "name": "Trinkets and Baubles-0.32.5.jar",
+          "path": "mods/Trinkets and Baubles-0.32.5.jar",
+          "size": 2013100,
+          "sha1": "1bf00686055662715c7b4bcf56251db034a3fccc",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Trinkets and Baubles-0.32.5.jar"
+        },
+        {
+          "name": "trumpetskeleton-1.12-1.0.2.1.jar",
+          "path": "mods/trumpetskeleton-1.12-1.0.2.1.jar",
+          "size": 42657,
+          "sha1": "98d55c7b43a2996057e3052337c7d103c74f426c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/trumpetskeleton-1.12-1.0.2.1.jar"
+        },
+        {
+          "name": "tschipplib-1.12.2-1.1.7.jar",
+          "path": "mods/tschipplib-1.12.2-1.1.7.jar",
+          "size": 70966,
+          "sha1": "6260b29a034ad9852d5d4c73fb33c9cbb18f7483",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/tschipplib-1.12.2-1.1.7.jar"
+        },
+        {
+          "name": "tumbleweed-1.12-0.4.7.jar",
+          "path": "mods/tumbleweed-1.12-0.4.7.jar",
+          "size": 87400,
+          "sha1": "22d151086fde79a7d34b5bc191a4d90ef1b24890",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/tumbleweed-1.12-0.4.7.jar"
+        },
+        {
+          "name": "Underneath-2.0.jar",
+          "path": "mods/Underneath-2.0.jar",
+          "size": 40268016,
+          "sha1": "dcd2e02ccd799ef44e0cdc55e2a6779f5e0d3ff1",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Underneath-2.0.jar"
+        },
+        {
+          "name": "VariedCommodities_1.12.2-(31Mar23).jar",
+          "path": "mods/VariedCommodities_1.12.2-(31Mar23).jar",
+          "size": 1766394,
+          "sha1": "b51e7d731d347eed88c5d33969bbfd9bd4a43c60",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/VariedCommodities_1.12.2-(31Mar23).jar"
+        },
+        {
+          "name": "VCFix-1.0.1.jar",
+          "path": "mods/VCFix-1.0.1.jar",
+          "size": 25064,
+          "sha1": "635a5f796ff07b5eb21ab23a2f1ad6176c758705",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/VCFix-1.0.1.jar"
+        },
+        {
+          "name": "VerticallyStackedDimensions-1.12.2-0.1.9.jar",
+          "path": "mods/VerticallyStackedDimensions-1.12.2-0.1.9.jar",
+          "size": 240644,
+          "sha1": "91a0696178f1e80b1ed172a57cf50a10cffbb38b",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/VerticallyStackedDimensions-1.12.2-0.1.9.jar"
+        },
+        {
+          "name": "Waystones_1.12.2-4.1.0.jar",
+          "path": "mods/Waystones_1.12.2-4.1.0.jar",
+          "size": 178994,
+          "sha1": "877a5cd3ed8e3f29e900b74c8c5400ee6e43c3bf",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/Waystones_1.12.2-4.1.0.jar"
+        },
+        {
+          "name": "WearableBackpacks-RLCraft-1.12.2-3.2.6.jar",
+          "path": "mods/WearableBackpacks-RLCraft-1.12.2-3.2.6.jar",
+          "size": 503299,
+          "sha1": "2189a5d62455221cbce7f83b1839ebfe5553cd98",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/WearableBackpacks-RLCraft-1.12.2-3.2.6.jar"
+        },
+        {
+          "name": "WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar",
+          "path": "mods/WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar",
+          "size": 2075228,
+          "sha1": "01883bd1e831397c90b8065a332a9b7e7da24c3c",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar"
+        },
+        {
+          "name": "xaerolib-forge-1.12-1.0.44.jar",
+          "path": "mods/xaerolib-forge-1.12-1.0.44.jar",
+          "size": 587154,
+          "sha1": "485db6bbf8bed92b5b6aa5eef5b45b6a6dd29999",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/xaerolib-forge-1.12-1.0.44.jar"
+        },
+        {
+          "name": "xaerominimap-forge-1.12.2-25.3.5.jar",
+          "path": "mods/xaerominimap-forge-1.12.2-25.3.5.jar",
+          "size": 1981744,
+          "sha1": "6b5d0ddab6b81060341e81983e38ce423dd31a33",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/xaerominimap-forge-1.12.2-25.3.5.jar"
+        },
+        {
+          "name": "XPFromHarvest-1.12.2-1.2.0.jar",
+          "path": "mods/XPFromHarvest-1.12.2-1.2.0.jar",
+          "size": 8479,
+          "sha1": "17d75a73915b4a9691dba91831f685d5d6fc9be7",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/XPFromHarvest-1.12.2-1.2.0.jar"
+        },
+        {
+          "name": "xptome-1.12.2-v1.1.6.jar",
+          "path": "mods/xptome-1.12.2-v1.1.6.jar",
+          "size": 12161,
+          "sha1": "e4116cbe2afe5e8025a0e3596e1f8189242c3a38",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/xptome-1.12.2-v1.1.6.jar"
+        },
+        {
+          "name": "YungsLaw-1.12.2-1.0.4.jar",
+          "path": "mods/YungsLaw-1.12.2-1.0.4.jar",
+          "size": 72145,
+          "sha1": "6538598da3c76de971d07cdcca270894b6e84180",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/YungsLaw-1.12.2-1.0.4.jar"
+        },
+        {
+          "name": "`FermiumBooter-1.4.1.jar",
+          "path": "mods/`FermiumBooter-1.4.1.jar",
+          "size": 1931148,
+          "sha1": "e787d3e9598ea261d6cc5188da5bd1555e08ffb1",
+          "url": "https://mouyouu.github.io/RLSide-Files/mods/`FermiumBooter-1.4.1.jar"
+        }
+      ]
+    }
+  ]
+}
